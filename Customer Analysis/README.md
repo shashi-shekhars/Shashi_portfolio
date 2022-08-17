@@ -1,4 +1,4 @@
-# [Project 1 : Customer Analysis in Retail Business](https://github.com/shashi-shekhars/shashi_portfolio/tree/main/Customer%20Analysis)
+# [Project 1 : Customer Analysis in Retail](https://github.com/shashi-shekhars/shashi_portfolio/tree/main/Customer%20Analysis)
 
 # Project Overview
 This project aims to support a retail or FMCG (fast-moving consumer goods) company to formulate marketing and pricing strategies that could maximize revenues on each brand of a product. To reach the fullest potential of bringing up revenues, a company should find a good spot for price to maximize customer behaviours namely purchase probability, brand choice probability, and purchase quantity.
