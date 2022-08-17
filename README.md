@@ -1,7 +1,7 @@
 # Shashi_Portfolio
 Data Science Portfolio
 
-[# Project 1 : Customer Analysis in Retail Business][https://github.com/shashi-shekhars/shashi_portfolio/tree/main/Customer%20Analysis]
+# [Project 1 : Customer Analysis in Retail Business](https://github.com/shashi-shekhars/shashi_portfolio/tree/main/Customer%20Analysis)
 
 # Project Overview
 This project aims to support a retail or FMCG (fast-moving consumer goods) company to formulate marketing and pricing strategies that could maximize revenues on each brand of a product. To reach the fullest potential of bringing up revenues, a company should find a good spot for price to maximize customer behaviours namely purchase probability, brand choice probability, and purchase quantity.
@@ -15,7 +15,7 @@ To better position the products, we will firstly perform segmentation on our cus
 <br/>• Packages: pandas, numpy, sklearn, scipy, matplotlib, seaborn, pickle
 <br/>• Algorithms: Clustering(Hierarchical,K-means, PCA), Regression(logistic, linear)
 
-[# Project 2 : Duplicate Question Pairs][https://github.com/shashi-shekhars/shashi_portfolio/tree/main/Duplicate%20Question%20Pairs]
+# [Project 2 : Duplicate Question Pairs](https://github.com/shashi-shekhars/shashi_portfolio/tree/main/Duplicate%20Question%20Pairs)
 
 ## Project Overview
 Social media platforms like Quora, Reddit etc are places to gain and share knowledge—about anything. These platforms connect users across the globe to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
@@ -38,7 +38,7 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 <br/>• Packages : pandas, numpy, os, matplotlib, seaborn, distance, wordcloud, sklearn, xgboost, bs4, nltk 
 <br/>• Algorithms : Random Forest Classifier, XGBoost Classifier
 
-[# Project 3 : Non invasive measurement of human physiological parameters][https://github.com/shashi-shekhars/shashi_portfolio/blob/main/(ANN%20Model)%20Non-invasive.pdf]
+# [Project 3 : Non invasive measurement of human physiological parameters](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/(ANN%20Model)%20Non-invasive.pdf)
 
 ## Project Overview
 The main objective of this project is to design a non-invasive method based device to monitor blood glucose measurement which is utilising the near-infrared region. There are some devices that are based on various non-invasive techniques but this project proposed a device based on artificial neural network for regression analysis to predict the blood glucose levels, which is absent from any other such device.
