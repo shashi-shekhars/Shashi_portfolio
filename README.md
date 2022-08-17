@@ -1,5 +1,3 @@
-# Shashi_Portfolio
-
 # [Project 1 : Customer Analysis in Retail Business](https://github.com/shashi-shekhars/shashi_portfolio/tree/main/Customer%20Analysis)
 
 # Project Overview
