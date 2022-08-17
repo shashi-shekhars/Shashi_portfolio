@@ -15,6 +15,11 @@ To better position the products, we will firstly perform segmentation on our cus
 <br/>• Packages: pandas, numpy, sklearn, scipy, matplotlib, seaborn, pickle
 <br/>• Algorithms: Clustering(Hierarchical,K-means, PCA), Regression(logistic, linear)
 
+![](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/Images/seg_features_correlation.png)
+![](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/Images/K-means_pca.png)
+![](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/Images/average_pur_seg.png)
+![](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/Images/brand_5.png)
+
 # [Project 2 : Duplicate Question Pairs](https://github.com/shashi-shekhars/shashi_portfolio/tree/main/Duplicate%20Question%20Pairs)
 
 ## Project Overview
@@ -38,12 +43,21 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 <br/>• Packages : pandas, numpy, os, matplotlib, seaborn, distance, wordcloud, sklearn, xgboost, bs4, nltk 
 <br/>• Algorithms : Random Forest Classifier, XGBoost Classifier
 
+![](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/Images/word_share.png)
+![](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/Images/word_cloud_d.png)
+![](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/Images/bivariate_analysis.png)
+![](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/Images/2D_t-SNE.png)
+
 # [Project 3 : Non invasive measurement of human physiological parameters](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/(ANN%20Model)%20Non-invasive.pdf)
 
 ## Project Overview
 The main objective of this project is to design a non-invasive method based device to monitor blood glucose measurement which is utilising the near-infrared region. There are some devices that are based on various non-invasive techniques but this project proposed a device based on artificial neural network for regression analysis to predict the blood glucose levels, which is absent from any other such device.
 
 ## Resources Used
-• MATLAB Version : 2018a
+• Softwares : MATLAB 2018a, NI Multisim
 <br/>• Packages : NNTool, Artificial Neural Network
 <br/>• Algorithm : Regression based Levenberg-Marquardt algorithm
+
+![](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/Images/sensor_simu.png)
+![](https://github.com/shashi-shekhars/shashi_portfolio/blob/main/Images/Regression.png)
+
